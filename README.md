@@ -34,3 +34,4 @@ with the correct device ID. The parameter `-r` is there for termux-usb to reques
 Unfortunately neither Termux nor Android remembers that, so you will have to allow USB access again after each phone reboot.
 
 
+The USB audio access on Android was inspired by [Joel Stanley's work](https://github.com/shenki/usbaudio-android-demo).
